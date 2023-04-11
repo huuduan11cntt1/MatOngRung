@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699683056917",
+    "project_id": "matongrungplus",
+    "storage_bucket": "matongrungplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699683056917:android:ad2790f4d60ca35750cd1c",
+        "android_client_info": {
+          "package_name": "huuduan.sanpham.matongrung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699683056917-12ua7ku5giebndu8rhg7vh53tcq41q7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "huuduan.sanpham.matongrung",
+            "certificate_hash": "b46962cff91be825914ba4f4a3de24b73f9c5f44"
+          }
+        },
+        {
+          "client_id": "699683056917-6jqrdft2t1sfc6dnk1boohf7q4298l9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAj7dyhTUQvEG2mNsB7AGD3Y1K_p7yobg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699683056917-6jqrdft2t1sfc6dnk1boohf7q4298l9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

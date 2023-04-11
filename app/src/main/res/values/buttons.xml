@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- we need two arrays, one for the icons and one for the colors of the icons-->
+    <!-- icons array-->
+    <array name="icons">
+        <item>@drawable/ic_content_paste_24</item>
+        <item>@drawable/ic_baseline_nature_people_24</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_webhook_24</item>
+        <item>@drawable/ic_shopping_cart</item>
+    </array>
+    <!-- icons colors-->
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_red_light</item>
+        <item>@android:color/holo_purple</item>
+        <item>@android:color/holo_orange_light</item>
+    </array>
+
+</resources>
